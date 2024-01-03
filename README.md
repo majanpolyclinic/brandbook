@@ -22,3 +22,27 @@ At Majan Polyclinic, we prioritize your well-being by cultivating a patient-cent
 
 # Vision
 Striving to evolve into a multi-specialty clinic, we aim to pioneer accountability and excellence in healthcare services. Our vision is to deliver comprehensive, ethical, up-to-date, and patient-centered medical care, setting a benchmark for quality and innovation in the healthcare industry.
+
+# Mission
+Our mission is to deliver excellence through compassionate and trustworthy care to all individuals. We are dedicated to creating the optimal setting for receiving exceptional care and fostering the best working environment.
+
+# Value
+Our actions are guided by a set of core values:
+
+1. **Accountability:** Taking responsibility for our actions and decisions, ensuring transparency and reliability in all aspects of our work.
+
+2. **Patients' Dignities and Humanity:** Prioritizing the respect, dignity, and humane treatment of every individual we serve, recognizing the uniqueness and importance of each person.
+
+3. **Constant Excellence:** Striving for continuous improvement and maintaining a commitment to excellence in all aspects of our healthcare services.
+
+4. **Ethical Compassionate Medical Care:** Upholding the highest ethical standards in providing compassionate medical care, fostering trust and confidence in our patients.
+
+5. **Teamwork and Professionalism:** Emphasizing collaboration and professionalism among our team members, fostering a positive and cohesive work environment for the benefit of our patients and the community.
+
+# Organization Colors
+  <p align="center">
+    <a href="https://luxurycrown.org">
+    <img src="https://github.com/majanpolyclinic/brandbook/assets/6504337/d58dbb94-bc35-4735-9b91-d65ecf72e32c" height="130" alt="luxurycrown" />
+    </a> 
+  </p>
+ 
