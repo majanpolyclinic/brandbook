@@ -11,3 +11,12 @@
    Oman - muscat
   </p>
 </p>
+
+# Description
+Majan Polyclinic, established in 2023 and operational since January 2024 in Muscat, is strategically located on Al Maabilah, Al Seeb - Halban Rd (Sinaiyyah Street). Our core objective is to provide accessible, top-notch healthcare services with a focus on General Medicine and Dental Medicine at affordable rates, catering to the diverse needs of our community.
+
+As part of our ongoing commitment to excellence, we plan to expand our offerings to include specialized services such as Gynecology, Dermatology, Cardiology, ENT, and state-of-the-art Laboratory facilities.
+
+At Majan Polyclinic, we prioritize your well-being by cultivating a patient-centric approach, ensuring a pleasant and satisfying experience for every individual. We express gratitude for choosing Majan Polyclinic and assure you that our dedicated team is devoted to continuous improvement and professional development, reflecting our unwavering commitment to delivering high-quality, efficient, and compassionate healthcare.
+
+
