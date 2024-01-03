@@ -20,3 +20,5 @@ As part of our ongoing commitment to excellence, we plan to expand our offerings
 At Majan Polyclinic, we prioritize your well-being by cultivating a patient-centric approach, ensuring a pleasant and satisfying experience for every individual. We express gratitude for choosing Majan Polyclinic and assure you that our dedicated team is devoted to continuous improvement and professional development, reflecting our unwavering commitment to delivering high-quality, efficient, and compassionate healthcare.
 
 
+# Vision
+Striving to evolve into a multi-specialty clinic, we aim to pioneer accountability and excellence in healthcare services. Our vision is to deliver comprehensive, ethical, up-to-date, and patient-centered medical care, setting a benchmark for quality and innovation in the healthcare industry.
