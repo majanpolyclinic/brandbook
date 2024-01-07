@@ -13,31 +13,25 @@
 </p>
 
 # Description
-Majan Polyclinic, established in 2023 and operational since January 2024 in Muscat, is strategically located on Al Maabilah, Al Seeb - Halban Rd (Sinaiyyah Street). Our core objective is to provide accessible, top-notch healthcare services with a focus on General Medicine and Dental Medicine at affordable rates, catering to the diverse needs of our community.
+Majan Polyclinic was established in 2023 and commenced operations in January 2024 in Muscat, specifically located on Al Maabilah, Al Seeb - Halban Rd. Our primary goal is to offer high-quality, efficient, and compassionate healthcare services at affordable prices to fulfill everyone's needs.
 
-As part of our ongoing commitment to excellence, we plan to expand our offerings to include specialized services such as Gynecology, Dermatology, Cardiology, ENT, and state-of-the-art Laboratory facilities.
-
-At Majan Polyclinic, we prioritize your well-being by cultivating a patient-centric approach, ensuring a pleasant and satisfying experience for every individual. We express gratitude for choosing Majan Polyclinic and assure you that our dedicated team is devoted to continuous improvement and professional development, reflecting our unwavering commitment to delivering high-quality, efficient, and compassionate healthcare.
+We commence our operations specializing in General Medicine and Dental Medicine. However, we have plans to expand our services to include Gynecology, Dermatology, Cardiology, ENT, and Laboratory facilities. We strive to ensure your experience at our clinic is both pleasant and satisfying by emphasizing a patient-centric philosophy and a commitment to continuous improvement. Thank you for choosing Majan Polyclinic. Our team is dedicated to ongoing professional development.
 
 
 # Vision
-Striving to evolve into a multi-specialty clinic, we aim to pioneer accountability and excellence in healthcare services. Our vision is to deliver comprehensive, ethical, up-to-date, and patient-centered medical care, setting a benchmark for quality and innovation in the healthcare industry.
+Becoming a multi-specialty clinic and a pioneer in accountability and excellence in healthcare services by providing comprehensive, ethical, up-to-date and patient-centered medical care.
 
 # Mission
-Our mission is to deliver excellence through compassionate and trustworthy care to all individuals. We are dedicated to creating the optimal setting for receiving exceptional care and fostering the best working environment.
+We are here to provide excellence, humanistic and trusted care to all people and prepare the best place to receive care and best environment to work.
 
 # Value
-Our actions are guided by a set of core values:
+we are working based on (our values):
 
-1. **Accountability:** Taking responsibility for our actions and decisions, ensuring transparency and reliability in all aspects of our work.
-
-2. **Patients' Dignities and Humanity:** Prioritizing the respect, dignity, and humane treatment of every individual we serve, recognizing the uniqueness and importance of each person.
-
-3. **Constant Excellence:** Striving for continuous improvement and maintaining a commitment to excellence in all aspects of our healthcare services.
-
-4. **Ethical Compassionate Medical Care:** Upholding the highest ethical standards in providing compassionate medical care, fostering trust and confidence in our patients.
-
-5. **Teamwork and Professionalism:** Emphasizing collaboration and professionalism among our team members, fostering a positive and cohesive work environment for the benefit of our patients and the community.
+- Accountability
+- Patients' dignities and humanity
+- Constant excellence
+- Ethical compassionate medical care
+- Teamwork and professionalism
 
 # Organization Colors
   <p align="center">
