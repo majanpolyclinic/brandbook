@@ -36,7 +36,7 @@ we are working based on (our values):
 # Organization Colors
   <p align="center">
     <a href="https://majanpolyclinic.com">
-    <img src="https://github.com/majanpolyclinic/brandbook/assets/6504337/d58dbb94-bc35-4735-9b91-d65ecf72e32c" height="130" alt="majanpolyclinic" />
+    <img src="https://github.com/majanpolyclinic/brandbook/assets/6504337/411076bd-fc4e-4b5b-b0ac-8041c822f949" height="150" alt="majanpolyclinic" />      
     </a> 
   </p>
  
